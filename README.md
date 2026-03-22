@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Pari Porwal ( B.Tech Student at VIT Bhopal University )
 
-<!--
-**pariporwal27/pariporwal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am an engineering student interested in learning programming and exploring different areas of technology. I am currently building my skills in coding, problem-solving, and digital tools.
 
-Here are some ideas to get you started:
+Interests
+- Programming and Problem solving
+- Artifical Intelligence   
+- Learning New Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals
+- Improve my coding skills  
+- Work on real-world projects
+   
+Thanks for visiting my profile!⭐ 
