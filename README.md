@@ -1,6 +1,7 @@
 Hi, I'm Pari Porwal ( B.Tech Student at VIT Bhopal University )
 
-About Me : 
+About Me 
+<br>
 I am an engineering student interested in learning programming and exploring different areas of technology. I am currently building my skills in coding, problem-solving, and digital tools.
 
 Interests
