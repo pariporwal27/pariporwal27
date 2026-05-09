@@ -1,16 +1,13 @@
-Hi, I'm Pari Porwal ( B.Tech Student at VIT Bhopal University )
+Hi, I'm Pari 
 
-About Me 
-<br>
-I am an engineering student interested in learning programming and exploring different areas of technology. I am currently building my skills in coding, problem-solving, and digital tools.
+AI/ML student passionate about building intelligent applications, productivity tools, and computer vision projects.
 
-Interests
-- Programming and Problem solving
-- Artifical Intelligence   
-- Learning New Technologies  
+Currently working on:
+- AI-powered study planner
+- Computer vision applications
+- Interactive web apps
+- Cloud & deployment learning
 
-Goals
-- Improve my coding skills  
-- Work on real-world projects
-   
+Tech Stack:
+Python • Streamlit • JavaScript • OpenCV • Machine Learning • Git • Google Cloud
 Thanks for visiting my profile!⭐ 
